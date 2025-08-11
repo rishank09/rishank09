@@ -7,7 +7,7 @@
 - 🎓 **B.Tech in Computer Science** – Jabalpur Engineering College (3rd Year)  
 - 💻 **Full-Stack MERN Developer** with strong backend expertise in Node.js, Express.js & Next.js  
 - 🤖 Passionate about **Generative AI** and modern web technologies  
-- 🏆 Participated in a Hackathon at LMNIIT, Jaipur – built a trained AI agent  
+- 🏆 Participated in a Hackathon at LMNIIT, Jaipur 
 - 🎯 Goal: Build impactful & scalable web applications  
 
 ---
